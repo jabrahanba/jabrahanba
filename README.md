@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @jabrahanba
-- 👀 I’m interested in data analytics and machine learning.
-- 🌱 I’m currently learning Python and R
-- 💞️ I’m looking to collaborate on Data Analytics and Machine Learning projects.  
-- 📫 jabrahanba@gmail.com
+👋 Hello! I’m @jabrahanba
+📊 My passion lies in turning data into actionable insights and excelling in Data Engineering and MLOps.
+🌱 I am constantly improving my technical skills in Airflow, SQL, MongoDB, Big Data technologies, Spark, and Docker.
+🚀 I aspire to contribute to the world of data by designing robust data pipelines, optimizing workflows, and implementing machine learning operations (MLOps).
+📧 You can reach me at: jabrahanba@gmail.com
 
 <!---
 jabrahanba/jabrahanba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
